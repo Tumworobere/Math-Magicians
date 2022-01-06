@@ -1,39 +1,105 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto+Slab&display=swap');
+
+.result {
+  height: 60px;
+  background-color: #8b8989a6;
+  width: 100%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+p {
+  margin: 50px;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  align-content: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.result p {
+  font-size: 20px;
+  margin-top: 50px;
+  padding: 30px;
+  font-weight: 600;
+  color: #fff;
+}
+
+.my-cal {
+  width: 50%;
+  padding: 100px;
+}
+
+.calculator-body {
+  display: flex;
+  flex-direction: row;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  width: 90%;
+  height: 80vh;
+  margin-top: 20px;
+  margin-left: 100px;
+  float: right;
+  border: 2px solid black;
 }
 
-.App-link {
-  color: #61dafb;
+button {
+  width: 25%;
+  height: 50px;
+  font-size: 16px;
+  font-weight: 500;
+  background-color: #fff;
+  border: 1px solid rgb(214, 212, 212, 0.6);
+  cursor: pointer;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
+.span-two {
+  width: 50%;
+}
 
-  to {
-    transform: rotate(360deg);
-  }
+.operand-color {
+  background-color: #ff8b3d;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  float: right;
+}
+
+.nav-link {
+  width: 10%;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+
+.line {
+  border: 1px solid black;
+}
+
+li {
+  margin: 5px;
+  color: rgb(0, 132, 255);
+}
+
+h1,
+h2,
+h3 {
+  margin: 20px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.quotes-p {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  font-weight: 700;
+  font-family: 'Poppins', sans-serif;
+}
+
+.cal-body {
+  display: grid;
+  grid-template-columns: 0.5fr 1fr;
+}
+
+.cal-bodyh2 {
+  display: flex;
+  align-content: center;
+  margin-top: 20px;
 }
