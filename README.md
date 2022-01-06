@@ -1,33 +1,38 @@
 # Math-Magicians
+In this milestone I acheived the following
 
-In this project I acheived the following
-
-- Created a React application using Create React App (CRA).
-- Made sure the application run in the browser without errors.
-- Updated the Readme file
+- Deleted all the boilerplate from CRA (text, images, styles).
+- Created a directory called components.
+- Created a new Calculator.js file.
+- Use class based components.
 
 ## Built With
 
 - React
 - JavaScript
+### Setup
+- Add linters from [linters-config](https://github.com/microverseinc/linters-config/tree/master/react-redux)
+- Set up a new project Create React App (CRA)
+
+- to create a React application is using Create React App (CRA) and following the instructions in this [guide](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)
+```
+npx create-react-app math-magician
+cd math-magician
+npm start
+```
 
 ## Getting Started
-
-To get a local copy up and running follow these simple example steps.
-
-### Usage
-
-- Clone this repo to your local machine, run git clone and paste the url of the repository
-  `git clone https://github.com/Tumworobere/Math-Magicians.git` in your command prompt
-- Open the project in your browser run `npm run build` and then run `serve -s build`.
+**To clone this project**
+**Run command: $git clone  https://github.com/Tumworobere/math-magician.git**
+-**or press the green Code button in the upper right corner and choose to download from the Download ZIP link.**
 
 ## Authors
 
-**Annah Tumworobere**
+**:woman: Annah Tumworobere**
 
-- GitHub: [@Tumworobere](https://github.com/Tumworobere)
-- Twitter: [Twitter](https://twitter.com/Tannah2090)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/annah-tumworobere-6258b443)
+- [Github](https://github.com/Tumworobere)
+- [Twitter](https://twitter.com/Tannah2090)
+- [LinkedIn](www.linkedin.com/in/annah-tumworobere-6258b443)
 
 ## 🤝 Contributing
 

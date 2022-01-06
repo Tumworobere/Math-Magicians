@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+**To clone this project**
+**Run command: $git clone  https://github.com/Tumworobere/math-magician.git**
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
