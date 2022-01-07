@@ -1,10 +1,9 @@
 # Math-Magicians
-In this milestone I acheived the following
+In this milestone I achieved the following
 
-- Deleted all the boilerplate from CRA (text, images, styles).
-- Created a directory called components.
-- Created a new Calculator.js file.
-- Use class based components.
+- Copied the files; calculate.js and operate.js into a logic/ directory in my project.
+- Imported the files in my Calculator component.
+- Implemented the event handlers. I needed to use the math logic from calculate.js and operate.js in my React component.
 
 ## Built With
 
