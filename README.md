@@ -1,5 +1,5 @@
 # Math-Magicians
-In this milestone I acheived the following
+In this milestone I achieved the following
 
 - Copied the files; calculate.js and operate.js into a logic/ directory in my project.
 - Imported the files in my Calculator component.
