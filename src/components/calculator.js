@@ -14,7 +14,7 @@ class Calculator extends React.Component {
     return (
 
 <div className="calculator">
-<div className="answer">{currentValue}</div>
+<div className="answers">{currentValue}</div>
 <div className="buttons">
   <button type="button" className="button">AC</button>
   <button type="button" className="button">+/-</button>
