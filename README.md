@@ -1,7 +1,9 @@
 # Math-Magicians
-In this milestone I achieved the following
+IIn this project, I achieved the following
 
-- Refactored the Calculator component (components/Calculator.js) from a class based component to a functional component with hooks.
+- Created a website consisting of 3 pages: Home, Calculator, and Quote.
+- Used React basic styling.
+- Used React Router to make the routes work.
 
 ## Built With
 
