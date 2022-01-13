@@ -1,5 +1,5 @@
 # Math-Magicians
-IIn this project, I achieved the following
+In this project, I achieved the following
 
 - Created a website consisting of 3 pages: Home, Calculator, and Quote.
 - Used React basic styling.
