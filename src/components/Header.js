@@ -1,9 +1,8 @@
-/* eslint-disable import/extensions */
 /* eslint-disable import/no-unresolved */
 /* eslint-disable no-unused-vars */
 import React from 'react';
 import { Link } from 'react-router-dom';
-import '../styles/Header.ccs';
+import '../styles/Header.css';
 
 const Header = () => (
     <header>

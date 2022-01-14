@@ -1,5 +1,3 @@
-/* eslint-disable import/no-unresolved */
-/* eslint-disable import/extensions */
 /* eslint-disable no-unused-vars */
 import React, { useEffect, useState } from 'react';
 import QuoteData from '../components/QuoteData.js';
