@@ -24,3 +24,10 @@ body {
   height: auto;
   min-height: 76.9%;
 }
+
+#homepage,
+#calculator-page,
+#calculator {
+  margin-left: 190px;
+
+}
