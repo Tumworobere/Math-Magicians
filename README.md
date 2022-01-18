@@ -4,8 +4,11 @@ In this project, I achieved the following
 - Created a website consisting of 3 pages: Home, Calculator, and Quote.
 - Used React basic styling.
 - Used React Router to make the routes work.
+
 # Deployment-Links
 - [Netlify](https://dazzling-knuth-69f0e5.netlify.app/)
+
+
 ## Built With
 
 - React
