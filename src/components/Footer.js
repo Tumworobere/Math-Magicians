@@ -3,6 +3,7 @@ import React from 'react';
 
 const Footer = () => (
     <footer>
+       Built with &#10084;&#65039; By Annah Tumworobere Kamara!
     </footer>
 );
 
