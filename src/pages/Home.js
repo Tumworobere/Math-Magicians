@@ -1,18 +1,27 @@
-/* eslint-disable no-unused-vars */
 import React from 'react';
-import '../styles/Home.css';
+import './App.css';
 
-const Home = () => (
-    <section className="homepage">
-      <h2>Welcome to my calculator!</h2>
+function Home() {
+  return (
+    <div>
+      <h1>Math Magician</h1>
+      <h3>Welcome to our Page!</h3>
       <p>
-      Math magicians is an Application for mathematicians.
-       It is a Single Page App (SPA) that allows users to:
-       Perform simple calculations and Read a random math-related quote
-       dispalyed from a remote API.
-       It has been built using Javascript, React Router and API!!
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum
+        s standard dummy text ever since the 1500s, when an unknown er took a galley of type and
+        .Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+        s standard dummy text ever since the 1500s, when an unknown er took a galley of type and
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+        s standard dummy text ever since the 1500s, when an unknown er took a galley of type
       </p>
-    </section>
-);
+      <p>
+        It has survived not only five centuries, but also the leap into electronic typesetting,
+        remaining essentially unchanged. It was popularised in the 1960s with the release of
+        sheets containingly
+        with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+      </p>
+    </div>
+  );
+}
 
 export default Home;
