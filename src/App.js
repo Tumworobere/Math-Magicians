@@ -26,7 +26,6 @@ class App extends Component {
             <Home />
           </Route>
         </Switch>
-        <footer> Powered by Annah Tumworobere Kamara</footer>
       </main>
     );
   }

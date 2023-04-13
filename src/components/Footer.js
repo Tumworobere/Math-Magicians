@@ -2,8 +2,8 @@
 import React from 'react';
 
 const Footer = () => (
-    <footer>
-    </footer>
+    <Footer>Powered by Annah Tumworobere @microverse
+    </Footer>
 );
 
 export default Footer;
