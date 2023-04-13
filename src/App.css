@@ -25,3 +25,13 @@ body {
   height: auto;
   min-height: 76.9%;
 }
+
+footer {
+  background: #858693;
+  color: #fff;
+  text-align: right;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  padding: 10px;
+}
